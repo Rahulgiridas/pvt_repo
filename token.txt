@@ -1,0 +1,2 @@
+git remote add origin https://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@github.com/Rahulgiridas/pvt_repo.git
+
